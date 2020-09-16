@@ -14,7 +14,7 @@ Vending Machine and Ticketing System for Passenger Ferry
 - Frontend based on LVGL
 
 ## Requirements
-- on both sides of the river, one ticket vending machine should be placed
+- on both shores of the river, one ticket vending machine should be placed
 - both vending machines communicate with each other over the mobile data network
 - the vending machine counts how many passengers bought a ticket
 - if the number of bicycles or passenger reaches a certain number, no more passnegers can buy a ticket
