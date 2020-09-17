@@ -1,5 +1,8 @@
 # Faehr_Trade
-Vending Machine and Ticketing System for Passenger Ferry 
+Vending Machine and Ticketing System for Passenger Ferry.
+
+Concept:
+![This is the Concept.](./concept.png)
 
 ## Hardware
 - Raspberry Pi 3B+
