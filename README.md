@@ -15,6 +15,7 @@ Concept:
 
 ## Software
 - Frontend based on LVGL
+	- [Example code here](https://github.com/littlevgl/pc_simulator_sdl_eclipse.git)
 
 ## Requirements
 - on both shores of the river, one ticket vending machine should be placed
