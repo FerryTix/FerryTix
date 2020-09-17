@@ -52,9 +52,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="607.01204"
-     inkscape:cy="401.91715"
+     inkscape:zoom="0.5"
+     inkscape:cx="680.22763"
+     inkscape:cy="420.72973"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -85,10 +85,13 @@
        width="131.49791"
        height="30.1625"
        x="217.40289"
-       y="170.28763" />
+       y="170.28763"
+       inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
-       inkscape:export-ydpi="250"
-       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
        inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
        ry="4.0408807"
        y="157.60046"
@@ -98,8 +101,8 @@
        id="rect4524"
        style="fill:url(#linearGradient4554);fill-opacity:1;stroke:#000000;stroke-width:0.92569017;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal" />
     <g
-       inkscape:export-ydpi="250"
-       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
        inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
        transform="translate(5.5873259,0.03265238)"
        id="g4501"
@@ -131,8 +134,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">Automat 1</tspan></text>
     </g>
     <path
-       inkscape:export-ydpi="250"
-       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
        inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
@@ -140,8 +143,8 @@
        d="M 8.0849032,149.66767 H 65.2004 l 27.205151,15.7069"
        style="fill:none;stroke:#000000;stroke-width:1.06474745;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       inkscape:export-ydpi="250"
-       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
        inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
@@ -149,8 +152,8 @@
        d="m 312.39803,149.66767 h -57.1155 l -27.20515,15.7069"
        style="fill:none;stroke:#000000;stroke-width:1.06474745;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       inkscape:export-ydpi="250"
-       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
        inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
        style="fill:#848685;fill-opacity:1;stroke:#000000;stroke-width:0.66499996;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="rect4485-7"
@@ -159,8 +162,8 @@
        x="259.0488"
        y="129.76869" />
     <rect
-       inkscape:export-ydpi="250"
-       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
        inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.66499996;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="rect4487-5"
@@ -169,8 +172,8 @@
        x="262.38721"
        y="132.52826" />
     <text
-       inkscape:export-ydpi="250"
-       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
        inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
        id="text4495-3"
        y="146.55991"
@@ -183,8 +186,8 @@
          id="tspan4493-5"
          sodipodi:role="line">Automat 2</tspan></text>
     <text
-       inkscape:export-ydpi="250"
-       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
        inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.69999999;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -197,8 +200,8 @@
          y="159.86401"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;stroke-width:0.26458332">Ufer Bislich</tspan></text>
     <text
-       inkscape:export-ydpi="250"
-       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
        inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.69999999;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -211,8 +214,8 @@
          y="159.89461"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;stroke-width:0.26458332">Ufer Xanten</tspan></text>
     <path
-       inkscape:export-ydpi="250"
-       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
        inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
        sodipodi:nodetypes="cccccccccccc"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.79132682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -220,16 +223,16 @@
        id="path4624"
        inkscape:connector-curvature="0" />
     <path
-       inkscape:export-ydpi="250"
-       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
        inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
        style="fill:none;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 117.475,133.09062 v -2.11667 h -1.98437 3.43958"
        id="path4626"
        inkscape:connector-curvature="0" />
     <text
-       inkscape:export-ydpi="250"
-       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
        inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
        id="text4634"
        y="150.95"
@@ -242,8 +245,8 @@
          id="tspan4632"
          sodipodi:role="line">Personenfähre</tspan></text>
     <g
-       inkscape:export-ydpi="250"
-       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
        inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
        transform="matrix(1,0,0,1.153,192.66615,-10.821032)"
        id="g4710-6"
@@ -295,8 +298,8 @@
       </g>
     </g>
     <g
-       inkscape:export-ydpi="250"
-       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
        inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
        transform="matrix(1,0,0,1.153,412.36446,-10.821032)"
        id="g4710-6-0"
@@ -348,8 +351,8 @@
       </g>
     </g>
     <g
-       inkscape:export-ydpi="250"
-       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
        inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
        transform="matrix(0.51632923,-0.55402548,0.59532761,0.63879137,110.58559,-22.165929)"
        id="g4710-6-7"
@@ -405,7 +408,10 @@
        y="164.72832"
        x="149.81247"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.69999999;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          y="164.72832"
          x="149.81247"
@@ -414,7 +420,10 @@
     <g
        transform="translate(0.65481362)"
        id="g4936"
-       style="">
+       style=""
+       inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <circle
          style="fill:#ff1010;fill-opacity:1;stroke:#000000;stroke-width:0.44999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
          id="path4917"
@@ -431,7 +440,10 @@
     <g
        transform="translate(220.38109,4.0574324e-4)"
        id="g4936-3"
-       style="">
+       style=""
+       inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <circle
          style="fill:#ff1010;fill-opacity:1;stroke:#000000;stroke-width:0.44999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
          id="path4917-7"
@@ -450,7 +462,10 @@
        y="76.205879"
        x="160.34482"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.69999999;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.67821781;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:'Oxygen-Sans Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.67821781;stroke-width:0.26458332"
          y="76.205879"
          x="160.34482"
@@ -477,7 +492,10 @@
        xml:space="preserve"
        id="flowRoot5056"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.69999999;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;"
-       transform="matrix(0.26458333,0,0,0.26458333,-11.441188,-5.0270833)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-11.441188,-5.0270833)"
+       inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><flowRegion
          id="flowRegion5058"
          style="line-height:0.69999999;fill:#ffffff;fill-opacity:1;"><rect
            id="rect5060"
@@ -498,7 +516,10 @@
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="152.13542"
        y="254.66667"
-       id="text5131"><tspan
+       id="text5131"
+       inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
          sodipodi:role="line"
          id="tspan5129"
          x="152.13542"
@@ -510,62 +531,80 @@
        width="131.49791"
        height="30.1625"
        x="-28.71804"
-       y="170.24287" />
+       y="170.24287"
+       inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot5056-3"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.69999999;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;"
-       transform="matrix(0.26458333,0,0,0.26458333,-253.29365,-5.3147056)"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.69999999;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-253.29365,-5.3147056)"
+       inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><flowRegion
          id="flowRegion5058-2"
-         style="line-height:0.69999999;fill:#ffffff;fill-opacity:1;"><rect
+         style="line-height:0.69999999;fill:#ffffff;fill-opacity:1"><rect
            id="rect5060-1"
            width="499"
            height="296"
            x="872"
            y="674.51971"
-           style="line-height:0.69999999;fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1;"
+           style="line-height:0.69999999;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1"
          id="flowPara5064-7">Autonomie:</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1"
          id="flowPara5068-5">   → Stromversorgung über Akkus.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1;"
-         id="flowPara5076-6">   → Benachrichtigung des Personals bei Fehlerauftritt..</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1"
+         id="flowPara5076-6">   → Benachrichtigung des Personals bei Fehlerauftritt.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1"
          id="flowPara5074-5" /></flowRoot>    <rect
        style="fill:#8a8a8a;fill-opacity:1;stroke:#000000;stroke-width:0.45000002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
        id="rect5135-5"
        width="131.49791"
        height="30.1625"
        x="94.492508"
-       y="209.64513" />
+       y="209.64513"
+       inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot5056-4"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.69999999;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;"
-       transform="matrix(0.26458333,0,0,0.26458333,-134.33349,34.637378)"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.69999999;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-134.33349,34.637378)"
+       inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><flowRegion
          id="flowRegion5058-22"
-         style="line-height:0.69999999;fill:#ffffff;fill-opacity:1;"><rect
+         style="line-height:0.69999999;fill:#ffffff;fill-opacity:1"><rect
            id="rect5060-17"
            width="499"
            height="296"
            x="872"
            y="674.51971"
-           style="line-height:0.69999999;fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1;"
+           style="line-height:0.69999999;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1"
          id="flowPara5064-2">Vernetzung:</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1"
          id="flowPara5068-4">   → Fährmann setzt beim Ablegen  Passagierzähler zurück. </flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1;"
-         id="flowPara5076-1">   → Automat nimmt Ticketverkauf wieder auf</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1"
+         id="flowPara5076-1">   → Automat nimmt Ticketverkauf wieder auf.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1"
          id="flowPara5074-6" /></flowRoot>    <path
        style="fill:#8a8a8a;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
        d="m 111.91875,209.6875 5.29167,-41.80417 7.67291,32.27917 71.17292,10.31875 z"
        id="path5173"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <g
        id="g5193"
-       style="fill:#8a8a8a;fill-opacity:1;stroke:none">
+       style="fill:#8a8a8a;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <path
          sodipodi:nodetypes="ccccccc"
          inkscape:connector-curvature="0"
