@@ -1,4 +1,4 @@
-# Faehr_Trade
+# FerryTix
 Vending Machine and Ticketing System for Passenger Ferry.
 
 Concept:

@@ -52,9 +52,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="680.22763"
-     inkscape:cy="420.72973"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="370.45869"
+     inkscape:cy="479.24565"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -71,7 +71,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -470,7 +470,7 @@
          y="76.205879"
          x="160.34482"
          id="tspan4964"
-         sodipodi:role="line">Fähr Trade</tspan><tspan
+         sodipodi:role="line">FerryTix</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.67821781;stroke-width:0.26458332"
          y="83.645142"
          x="160.34482"
@@ -488,29 +488,29 @@
            x="567.09961"
            y="288.1337"
            style="line-height:0.7;" /></flowRegion><flowPara
-         id="flowPara5054"></flowPara></flowRoot>    <flowRoot
+         id="flowPara5054" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5056"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.69999999;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.69999999;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
        transform="matrix(0.26458333,0,0,0.26458333,-11.441188,-5.0270833)"
        inkscape:export-filename="/home/elsholz/Documents/DHBW/studienarbeit/faehre.png"
        inkscape:export-xdpi="200"
        inkscape:export-ydpi="200"><flowRegion
          id="flowRegion5058"
-         style="line-height:0.69999999;fill:#ffffff;fill-opacity:1;"><rect
+         style="line-height:0.69999999;fill:#ffffff;fill-opacity:1"><rect
            id="rect5060"
            width="499"
            height="296"
            x="872"
            y="674.51971"
-           style="line-height:0.69999999;fill:#ffffff;fill-opacity:1;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1;"
+           style="line-height:0.69999999;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1"
          id="flowPara5064">Ampelsystem:</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1"
          id="flowPara5068">   → Bei grün können Tickets gekauft werden.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1;"
-         id="flowPara5076">   → Bei &quot;rot&quot; ist die Fähre voll, und Kunden müssen warten.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1"
+         id="flowPara5076">   → Bei rot ist die Fähre voll, und Kunden müssen warten.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0.69999999;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans;fill:#ffffff;fill-opacity:1"
          id="flowPara5074" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -524,7 +524,7 @@
          id="tspan5129"
          x="152.13542"
          y="254.66667"
-         style="stroke-width:0.26458332"> </tspan></text>
+         style="stroke-width:0.26458332" /></text>
     <rect
        style="fill:#8a8a8a;fill-opacity:1;stroke:#000000;stroke-width:0.44999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:normal"
        id="rect5135"
