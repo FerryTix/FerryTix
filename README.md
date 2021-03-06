@@ -2,7 +2,7 @@
 Vending Machine and Ticketing System for Passenger Ferry.
 
 Concept:
-![This is the Concept.](https://github.com/ferrytix/diagrams/concept.png)
+![This is the Concept.](https://raw.githubusercontent.com/FerryTix/diagrams/main/concept.png)
 
 ## Hardware
 - Raspberry Pi 3B+
